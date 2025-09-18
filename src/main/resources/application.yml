@@ -25,7 +25,7 @@ spring:
     console:
       enabled: true
   thymeleaf:
-    prefix: classpath:/templates/
+    prefix: classpath:/templates/appointment
     suffix: .html
   web:
     resources:
